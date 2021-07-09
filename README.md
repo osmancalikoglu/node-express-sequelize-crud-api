@@ -1,7 +1,5 @@
 # Simple CRUD application with [Express] and [Sequelize]
 
-***
-
 List Users
 ----------
 To list all users you just need a `GET` request.
